@@ -34,4 +34,3 @@ To run the exercises, you'll need to have the following software installed:
 - Python 3.x
 - Jupyter Notebook
 - Required Python libraries (Pandas, NumPy, Scikit-learn, etc.)
-- 
